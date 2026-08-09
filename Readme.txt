@@ -6,3 +6,4 @@ PythonForEverybody by Dr Chuck (Second Time)
 4. Conditional_Pay_Roll_Calc.py
 5. Functional_Pay_Roll_Calc.py
 6. Iteration_Loops.py
+7. String_Methods.py
